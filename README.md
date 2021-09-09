@@ -1,6 +1,6 @@
 # UCTransNet 
 
----
+
 This repo is the official implementation of
 ["UCTransNet: Rethinking the Skip Connections in U-Net from
 a Channel-wise Perspective with Transformer"]()
@@ -9,7 +9,7 @@ We propose a Channel Transformer module (CTrans) and use it to
 replace the skip connections in original U-Net, thus we name it "U-CTrans-Net".
 ## Requirements
 
----
+
 Install from the ```requirement.txt``` using:
 ```angular2html
 pip install -r requirements.txt
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Usage
 
----
+
 
 ### 1. Data Preparation
 #### 1.1. GlaS and MoNuSeg Datasets
@@ -94,7 +94,7 @@ python test_model.py
 You can get the Dice and IoU scores and the visualization results. 
 ## Reference
 
----
+
 * [TransUNet](https://github.com/Beckschen/TransUNet) 
 * [MedT](https://github.com/jeya-maria-jose/Medical-Transformer)
 
@@ -102,7 +102,7 @@ You can get the Dice and IoU scores and the visualization results.
 
 ## Citations
 
----
+
 If this code is helpful for your study, please cite:
 
 
