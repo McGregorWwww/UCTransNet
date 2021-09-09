@@ -27,7 +27,6 @@ The original data can be downloaded in following links:
 
 Then prepare the datasets in the following format for easy use of the code:
 ```angular2html
-.
 ├── datasets
     ├── GlaS
     │   ├── Test_Folder
