@@ -61,12 +61,12 @@ if __name__ == '__main__':
     if config.task_name is "GlaS":
         test_num = 80
         model_type = config.model_name
-        model_path = "/home/dell/Projects/Transformers/GlaS/"+model_type+"/"+test_session+"/models/best_model-"+model_type+".pth.tar"
+        model_path = "./GlaS/"+model_type+"/"+test_session+"/models/best_model-"+model_type+".pth.tar"
 
     elif config.task_name is "MoNuSeg":
         test_num = 14
         model_type = config.model_name
-        model_path = "/home/dell/Projects/Transformers/MoNuSeg/"+model_type+"/"+test_session+"/models/best_model-"+model_type+".pth.tar"
+        model_path = "./MoNuSeg/"+model_type+"/"+test_session+"/models/best_model-"+model_type+".pth.tar"
 
 
     save_path  = config.task_name +'/'+ model_type +'/' + test_session + '/'
