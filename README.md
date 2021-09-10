@@ -103,6 +103,16 @@ You can get the Dice and IoU scores and the visualization results.
 
 
 If this code is helpful for your study, please cite:
+```
+@misc{wang2021uctransnet,
+      title={UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer}, 
+      author={Haonan Wang and Peng Cao and Jiaqi Wang and Osmar R. Zaiane},
+      year={2021},
+      eprint={2109.04335},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 ## Contact 
