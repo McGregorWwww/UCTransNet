@@ -85,7 +85,7 @@ improve the final segmentation performance in some cases.
 
 ### 3. Testing
 #### 3.1. Get Pre-trained Models
-Here, we provide pre-trained weights on GlaS and MoNuSeg, if you do not want to train by yourself, you can download them in the following links:
+Here, we provide pre-trained weights on GlaS and MoNuSeg, if you do not want to train the models by yourself, you can download them in the following links:
 * GlaS：https://drive.google.com/file/d/1ciAwb2-0G1pZrt_lgSwd-7vH1STmxdYe/view?usp=sharing
 * MoNuSeg: https://drive.google.com/file/d/1CJvHoh3VrPsBn_njZDo6SvJF_yAVe5MK/view?usp=sharing
 #### 3.2. Test the Model and Visualize the Segmentation Results
