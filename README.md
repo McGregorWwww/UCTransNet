@@ -10,7 +10,7 @@ replace the skip connections in original U-Net, thus we name it "U-CTrans-Net".
 ## Requirements
 
 
-Install from the ```requirement.txt``` using:
+Install from the ```requirements.txt``` using:
 ```angular2html
 pip install -r requirements.txt
 ```
