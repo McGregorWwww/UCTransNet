@@ -5,7 +5,7 @@ This repo is the official implementation of
 ["UCTransNet: Rethinking the Skip Connections in U-Net from
 a Channel-wise Perspective with Transformer"](https://arxiv.org/abs/2109.04335)
 
-![framework](https://github.com/McGregorWwww/UCTransNet/blob/main/Framework.pdf)
+![framework](https://github.com/McGregorWwww/UCTransNet/blob/main/docs/Framework.jpg)
 
 We propose a Channel Transformer module (CTrans) and use it to 
 replace the skip connections in original U-Net, thus we name it "U-CTrans-Net".
