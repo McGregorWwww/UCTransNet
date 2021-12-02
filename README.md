@@ -3,7 +3,7 @@
 
 This repo is the official implementation of
 ["UCTransNet: Rethinking the Skip Connections in U-Net from
-a Channel-wise Perspective with Transformer"](https://arxiv.org/abs/2109.04335) which is accpted at AAAI2022.
+a Channel-wise Perspective with Transformer"](https://arxiv.org/abs/2109.04335) which is accepted at AAAI2022.
 
 ![framework](https://github.com/McGregorWwww/UCTransNet/blob/main/docs/Framework.jpg)
 
