@@ -1,9 +1,12 @@
-# [AAAI2022] UCTransNet 
+# [AAAI2022] UCTransNet
 
 
 This repo is the official implementation of
 ["UCTransNet: Rethinking the Skip Connections in U-Net from
 a Channel-wise Perspective with Transformer"](https://arxiv.org/abs/2109.04335) which is accepted at AAAI2022.
+
+🔥🔥 **[Online Presentation Video](https://www.bilibili.com/video/BV1ZF411p7PM?spm_id_from=333.999.0.0) is available for brief introduction.** 🔥🔥
+
 
 ![framework](https://github.com/McGregorWwww/UCTransNet/blob/main/docs/Framework.jpg)
 
