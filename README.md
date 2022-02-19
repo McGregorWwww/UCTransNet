@@ -101,6 +101,8 @@ python test_model.py
 ```
 You can get the Dice and IoU scores and the visualization results. 
 
+🔥🔥 **The testing results of all classes in Synapse dataset can be downloaded through [this link](https://drive.google.com/file/d/1E-ZJLkNc0AJSUKI1CCWdcROMS9wERI9s/view?usp=sharing).** 🔥🔥
+
 
 ### 4. Reproducibility
 In our code, we carefully set the random seed and set cudnn as 'deterministic' mode to eliminate the randomness. 
