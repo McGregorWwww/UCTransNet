@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 1. Data Preparation
 #### 1.1. GlaS and MoNuSeg Datasets
 The original data can be downloaded in following links:
-* MoNuSeG Dataset - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
+* MoNuSeg Dataset - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 * GLAS Dataset - [Link (Original)](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest)
 
 Then prepare the datasets in the following format for easy use of the code:
