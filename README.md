@@ -111,7 +111,7 @@ However, there still exsist some factors which may cause different training resu
 Especially for multi-GPU cases, the upsampling operation has big problems with randomness.
 See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 
-When training, we suggest to train the model twice to verify wheather the randomness is eliminated. Because we use the early stopping strategy, the final performance may change significantly due to the randomness. 
+When training, we suggest to train the model twice to verify wheather the randomness is eliminated. Because we use the early stopping strategy, **the final performance may change significantly due to the randomness**. 
 
 ## Reference
 
