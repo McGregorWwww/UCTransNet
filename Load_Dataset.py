@@ -40,7 +40,7 @@ class RandomGenerator(object):
         x, y = image.size
         if random.random() > 0.5:
             image, label = random_rot_flip(image, label)
-        elif random.random() > 0.5:
+        elif random.random() < 0.5:
             image, label = random_rotate(image, label)
 
         if x != self.output_size[0] or y != self.output_size[1]:
