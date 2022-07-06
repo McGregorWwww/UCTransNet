@@ -3,7 +3,7 @@
 
 This repo is the official implementation of
 ['UCTransNet: Rethinking the Skip Connections in U-Net from
-a Channel-wise Perspective with Transformer'](https://arxiv.org/abs/2109.04335) which is accepted at AAAI2022.
+a Channel-wise Perspective with Transformer'](https://ojs.aaai.org/index.php/AAAI/article/view/20144) which is accepted at AAAI2022.
 
 ![framework](https://github.com/McGregorWwww/UCTransNet/blob/main/docs/Framework.jpg)
 
@@ -126,14 +126,17 @@ When training, we suggest to train the model twice to verify wheather the random
 
 If this code is helpful for your study, please cite:
 ```
-@misc{wang2021uctransnet,
-      title={UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer}, 
-      author={Haonan Wang and Peng Cao and Jiaqi Wang and Osmar R. Zaiane},
-      year={2021},
-      eprint={2109.04335},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@article{UCTransNet,
+	 title={UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer}, 
+	 volume={36}, 
+	 url={https://ojs.aaai.org/index.php/AAAI/article/view/20144}, 
+  DOI={10.1609/aaai.v36i3.20144},
+	 number={3}, 
+	 journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+	 author={Wang, Haonan and Cao, Peng and Wang, Jiaqi and Zaiane, Osmar R.}, 
+	 year={2022}, 
+	 month={Jun.}, 
+	 pages={2441-2449}}
 ```
 
 
