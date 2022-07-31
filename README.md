@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-
+*Note: If you have some problems with the code, the [issues](https://github.com/McGregorWwww/UCTransNet/issues?q=is%3Aissue+is%3Aclosed) may help.*
 
 ### 1. Data Preparation
 #### 1.1. GlaS and MoNuSeg Datasets
