@@ -116,8 +116,12 @@ When training, we suggest to train the model twice to verify wheather the random
 ## Reference
 
 
-* [TransUNet](https://github.com/Beckschen/TransUNet) 
-* [MedT](https://github.com/jeya-maria-jose/Medical-Transformer)
+* UNet++: https://github.com/qubvel/segmentation_models.pytorch
+* Attention U-Net: https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
+* MultiResUNet: https://github.com/makifozkanoglu/MultiResUNet-PyTorch
+* TransUNet: https://github.com/Beckschen/TransUNet
+* Swin-Unet: https://github.com/HuCaoFighting/Swin-Unet
+* MedT: https://github.com/jeya-maria-jose/Medical-Transformer
 
 
 
