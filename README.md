@@ -63,6 +63,14 @@ The Synapse dataset we used is provided by TransUNet's authors.
 Please go to [https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md)
 for details.
 
+#### (Optional) 🔥🔥 Using customized datasets.
+- If you want to implement UCTransNet on a customized dataset, the easiest way is to organize the file structure similar to GlaS as described above. 
+
+- Ensure that the images are in the `.jpg` format, and the mask IDs should match the image IDs but with the `.png` extension. 
+
+- Any inconsistencies in the file structure or naming conventions may result in I/O errors.
+
+
 ### 2. Training
 As mentioned in the paper, we introduce two strategies 
 to optimize UCTransNet.
